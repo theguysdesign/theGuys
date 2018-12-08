@@ -1,0 +1,26 @@
+{
+  "name": "theguys.design",
+  "version": "1.0.0",
+  "description": "UI Library based on emotion, build with React, provided by Next.js",
+  "main": "index.js",
+  "repository": "https://github.com/theguysdesign/theguysdesign.git",
+  "author": "theGuys <support@theguys.sh> (https://theguys.design)",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.2",
+    "@emotion/styled": "^10.0.4",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "standard": "^12.0.1"
+  },
+  "devDependencies": {
+    "design-system-utils": "^1.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
