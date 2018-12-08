@@ -5,6 +5,6 @@
     "use": "@now/next"
   }],
   "alias": [
-    "build.theguys.sh"
+    "theguys.design"
   ]
 }

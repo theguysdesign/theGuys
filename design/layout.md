@@ -1,10 +1,10 @@
-<img src="./static/theguysdesign.svg" width="200px">
-
-Public code from [theguys.design](https://theguys.design)
+## Page Layout
+This page defines what is page structure and what Components are needed to build it. 
+All future changes to page design should be described here first.
 
 ## Table of contents
+- [Page Layout](#page-layout)
 - [Table of contents](#table-of-contents)
-- [Layout](#layout)
 - [Structure](#structure)
   - [Navigation](#navigation)
   - [Menu](#menu)
@@ -14,11 +14,7 @@ Public code from [theguys.design](https://theguys.design)
 - [Design](#design)
   - [Colors](#colors)
   - [Typography](#typography)
-- [Join us!](#join-us)
-  - [Contributors:](#contributors)
 - [License](#license)
-## [Layout](#layout)
-This defines how page structure looks and which Components were used to built it. All future design changes should be described here before any other actions.
 
 ## Structure
 ### Navigation
@@ -63,61 +59,15 @@ There's no other particular reason why I named colors like this than I'm bored o
   * pure, clean white
   * rgb(255,255,255)
   * background, additions
-
-List of all colors looks like this:
-```javascript
-const basicColors = {
-  black: 'rgb(0,0,0)',
-  white: 'rgb(250,250,250)',
-  gray: 'rgb(64,64,64)',
-  pink: 'rgb(240,50,120)',
-  red: 'rgb(86,8,24)',
-  darkcyan: '#008B8B',
-  darkturqoise: '#00CED1'
-}
-
-const Colors = {
-  primary: basicColors.black,
-  secondary: basicColors.white,
-  pink: basicColors.pink,
-  gray: basicColors.gray,
-  red: basicColors.red,
-  cyan: basicColors.darkcyan,
-  teal: basicColors.darkturqoise
-}
-
-export default Colors
-
-// and then in your Component
-import Colors from '../../design/colors'
-import {css} from '@emotion/core'
-
-const Paragraph = props => (
-  <p css={`
-    font-size: 1em;
-    color: ${Colors.teal}
-    `}
-  >
-    This should have teal color.
-  </p>
-)
-```
 ### Typography
-* Font family: Fira Sans, sans-serif
-* Font size: 16px
-* Font weight: 300
+* Font family: Open Sans / Fira Sans
+* Font size: 18px
+* Font weight: 200
 * Line height: 1.3
 * Letter spacing: 0.0625
 * Text rendering: optimizeLegibility
 * Small caps: Concourse C2
   * Font feature setting: all letters small ("c2sc", "smcp")
-
-
-## [Join us!](#contributing)
-> Feel free to contribute!
-
-### Contributors:
-> Blank page ☹️
 
 ## License
 MIT © [robertgrzonka](mailto:robert@theguys.sh)
