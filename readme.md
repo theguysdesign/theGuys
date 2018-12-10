@@ -125,7 +125,7 @@ const Paragraph = props => (
 ## Join us!
 > Feel free to contribute!
 
-If you find a typo or bug don't hesitate and simply fix it by making pull request. You can do it if you have an idea for nice feature. Or you can [join us!][https://theguys.sh/join] as a Crew! To make it easier for you, we've created four teams with different responsibilities.
+If you find a typo or bug don't hesitate and simply fix it by making pull request. You can do it if you have an idea for nice feature. Or you can [join us!](https://theguys.sh/join) as a Crew! To make it easier for you, we've created four teams with different responsibilities.
 
 ### Teams
 > Four teams for the Crew.
