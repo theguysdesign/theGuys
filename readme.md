@@ -54,7 +54,7 @@ Components: Body, BodyHeader
 * Buttons
 
 ## Design
-### Colors
+### Color Palette
 There's no other particular reason why I named colors like this than I'm bored of naming things like `primary` or `secondary` 🤷🏼‍♂️
 * Alfa: `#000000`
   * simple, classic, warm black 
