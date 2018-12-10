@@ -25,21 +25,29 @@ This defines how page structure looks and which Components were used to built it
   * Upper static navigation bar
   * Fixed
   * Separator (as boxShadow)
-> **Components**: Navigation, NavigationMenu, NavigationLogo, NavigationIcons
+  
+**Components**: Navigation, NavigationMenu, NavigationLogo, NavigationIcons
+
 ### Menu
   * On the left side
   * Sticky
   * Without separator
   * 30% of page
-> **Components**: Menu, MenuHeader
+  
+**Components**: Menu, MenuHeader
+
 ### Body
   * Scroll
   * 60% od page
-> Components: Body, BodyHeader 
+  
+Components: Body, BodyHeader 
+
 ### Footer
   * Absolute
   * minWidth: 100px
-> **Components**: Footer
+  
+**Components**: Footer
+
 
 ### Other components
 * Links
@@ -113,8 +121,19 @@ const Paragraph = props => (
   * Font feature setting: all letters small ("c2sc", "smcp")
 
 
-## [Join us!](#contributing)
+## Join us!
 > Feel free to contribute!
+
+If you find a typo or bug don't hesitate and simply fix it by making pull request. You can do it if you have an idea for nice feature. Or you can [join us!][https://theguys.sh/join] as a Crew! To make it easier for you, we've created four teams with different responsibilities.
+
+### Teams
+> Four teams for the Crew.
+
+* [theCopywriters](https://github.com/orgs/theguysdesign/teams/thecopywriters)
+* [theDesigners](https://github.com/orgs/theguysdesign/teams/thedesigners)
+* [theDevelopers](https://github.com/orgs/theguysdesign/teams/thedevelopers)
+* [theSupporters](https://github.com/orgs/theguysdesign/teams/thesupporters)
+
 
 ### Contributors:
 > Blank page ☹️
