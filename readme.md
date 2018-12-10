@@ -17,7 +17,8 @@ Public code from [theguys.design](https://theguys.design)
 - [Join us!](#join-us)
   - [Contributors:](#contributors)
 - [License](#license)
-## [Layout](#layout)
+
+## Layout
 This defines how page structure looks and which Components were used to built it. All future design changes should be described here before any other actions.
 
 ## Structure
